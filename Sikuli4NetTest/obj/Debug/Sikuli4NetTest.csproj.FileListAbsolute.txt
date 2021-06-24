@@ -1,0 +1,11 @@
+D:\Code\Sikuli4NetTest\Sikuli4NetTest\bin\Debug\Sikuli4NetTest.exe.config
+D:\Code\Sikuli4NetTest\Sikuli4NetTest\bin\Debug\Sikuli4NetTest.exe
+D:\Code\Sikuli4NetTest\Sikuli4NetTest\bin\Debug\Sikuli4NetTest.pdb
+D:\Code\Sikuli4NetTest\Sikuli4NetTest\bin\Debug\Newtonsoft.Json.dll
+D:\Code\Sikuli4NetTest\Sikuli4NetTest\bin\Debug\Sikuli4Net.dll
+D:\Code\Sikuli4NetTest\Sikuli4NetTest\bin\Debug\Newtonsoft.Json.xml
+D:\Code\Sikuli4NetTest\Sikuli4NetTest\obj\Debug\Sikuli4NetTest.csprojAssemblyReference.cache
+D:\Code\Sikuli4NetTest\Sikuli4NetTest\obj\Debug\Sikuli4NetTest.csproj.CoreCompileInputs.cache
+D:\Code\Sikuli4NetTest\Sikuli4NetTest\obj\Debug\Sikuli4NetTest.csproj.CopyComplete
+D:\Code\Sikuli4NetTest\Sikuli4NetTest\obj\Debug\Sikuli4NetTest.exe
+D:\Code\Sikuli4NetTest\Sikuli4NetTest\obj\Debug\Sikuli4NetTest.pdb
